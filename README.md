@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Before running this you shoul take API keys from given website.
+Before running this you should take API keys from given website.
 API token's and API key is taken from : https://www.edamam.com/ 
 
 ## Available Scripts
